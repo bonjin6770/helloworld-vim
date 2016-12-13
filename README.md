@@ -1,2 +1,0 @@
-# helloworld-vim
-helloworld-vim
